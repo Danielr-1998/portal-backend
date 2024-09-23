@@ -1,6 +1,6 @@
 package com.example.portal_backend.controller;
 import com.example.portal_backend.model.User;
-import com.example.portal_backend.Service.UserService;
+import com.example.portal_backend.model.UserService;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
